@@ -14,6 +14,3 @@ def URIToLength(uri):
     return (time_m,mod_s,mod_ms)
 
 
-if __name__=="__main__":
-    uri = "16w8ZGVSjI4TlTLV8VimBY"
-    print(URIToLength(uri))
